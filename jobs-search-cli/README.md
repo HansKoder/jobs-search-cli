@@ -12,7 +12,7 @@
 <ul>
     <li>
         Before using <b><i>jobs-search-cli</i></b>, you must run the microservice <b><i>jobs-api</i></b>
-        <br/> <b><i>jobs-api</i></b> is located in the following path <blockquote>https://github.com/HansKoder/jobs-search-cli/tree/main/api-jobs</blockquote>
+        <br/> <b><i>jobs-api</i></b> is located in the following link <a href="https://github.com/HansKoder/jobs-search-cli/tree/main/api-jobs">API-Jobs</a>
     </li>
 </ul>
 

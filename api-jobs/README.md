@@ -1,7 +1,7 @@
 <h1> << Api Jobs >> </h1>
 
 <h2> Description </h2>
-<p> <b><i>Api Jobs </i></b> generates fake Job Positions using the library datafaker</p>
+<p> <b><i>Api Jobs </i></b> generates fake Job Positions using the library <a href="https://www.datafaker.net/">datafaker</a></p>
 
 
 <h2> Instructions </h2>
